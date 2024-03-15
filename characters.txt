@@ -1,3 +1,5 @@
 Character A
 
 Character B
+
+Character C

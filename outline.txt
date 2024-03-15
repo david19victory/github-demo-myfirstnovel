@@ -1,2 +1,4 @@
 This is my first novel.
 Chapter 1
+
+This is the story for Chapter 1.
