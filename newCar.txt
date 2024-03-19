@@ -1,3 +1,5 @@
 Car 1 from newCar branch.
 
 Car 2 from newCar branch.
+
+Car 3 from newCar branch.
